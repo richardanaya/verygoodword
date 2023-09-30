@@ -1,3 +1,6 @@
+![immortalrobot_masterpiece_painting_of_a_frustrated_writer_95ecbabf-c1e4-4412-8e04-7d42e6cbe379](https://github.com/richardanaya/verygoodword/assets/294042/d080b748-61c7-4509-ae84-43e657a4b054)
+
+
 Looking for a better phrase to use than "very (insert word here)"? This website is a quick reference of suggestions
 
 | base word | slight intensity | greater intensity | extreme intensity |
