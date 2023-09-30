@@ -52,3 +52,5 @@ Looking for a better phrase to use than "very (insert word here)"? This website 
 | discordant | incongruent, dissonant, clashing | cacophonous, grating, strident | jarring, atonal, antipathetic |
 | persuasive | convincing, compelling, credible | influential, forceful, impactful | irrefutable, incontrovertible, unassailable |
 | ineffectual| ineffective, powerless, futile | useless, impotent, pointless | toothless, nugatory, bootless |
+
+Want a new base word up here? [Create an issue](https://github.com/richardanaya/verygoodword/issues).
