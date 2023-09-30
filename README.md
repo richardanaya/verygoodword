@@ -1,4 +1,4 @@
-Looking for a better phrase to use than "very <word>"? This website is a quick reference of suggestions
+Looking for a better phrase to use than "very (insert word here)"? This website is a quick reference of suggestions
 
 | base word | slight intensity | greater intensity | extreme intensity |
 |---|---|---|---|
