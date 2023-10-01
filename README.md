@@ -55,5 +55,25 @@ Looking for a better phrase to use than "very (insert word here)"? This website 
 | discordant | incongruent, dissonant, clashing | cacophonous, grating, strident | jarring, atonal, antipathetic |
 | persuasive | convincing, compelling, credible | influential, forceful, impactful | irrefutable, incontrovertible, unassailable |
 | ineffectual| ineffective, powerless, futile | useless, impotent, pointless | toothless, nugatory, bootless |
+| fortunate   | lucky, blessed, favored | providential, serendipitous, charmed | miraculous, fortuitous, heaven-sent |
+| mysterious  | puzzling, enigmatic, perplexing | cryptic, inscrutable, arcane | unfathomable, impenetrable, indecipherable |
+| clear       | lucid, plain, understandable | evident, unmistakable, transparent | unambiguous, unequivocal, indisputable |
+| obscure     | unclear, vague, indistinct | ambiguous, enigmatic, inscrutable | cryptic, abstruse, impenetrable |
+| logical     | rational, reasonable, sensible | coherent, sound, valid | irrefutable, unassailable, incontrovertible |
+| illogical   | irrational, nonsensical, unreasonable | fallacious, flawed, unsound | absurd, preposterous, ludicrous |
+| empathetic  | understanding, compassionate, considerate | sympathetic, kind-hearted, humane | altruistic, benevolent, magnanimous |
+| indifferent | uncaring, disinterested, unresponsive | apathetic, detached, callous | cold-blooded, heartless, insensate |
+| relaxed     | calm, at ease, comfortable | unworried, laid-back, carefree | untroubled, unperturbed, serene |
+| stressed    | anxious, uneasy, worried | frazzled, distraught, overwrought | panicked, hysterical, beside oneself |
+| innovative  | creative, original, novel | groundbreaking, pioneering, revolutionary | game-changing, paradigm-shifting, transformative |
+| conventional| standard, customary, typical | orthodox, traditional, established | dogmatic, rigid, fossilized |
+| intense     | strong, potent, powerful | acute, severe, extreme | ferocious, consuming, overwhelming |
+| mild        | gentle, moderate, light | tepid, subdued, restrained | meek, insipid, pallid |
+| open        | receptive, accessible, welcoming | unguarded, transparent, candid | guileless, unreserved, unfiltered |
+| secretive   | reserved, discreet, reticent | clandestine, covert, furtive | surreptitious, stealthy, cloak-and-dagger |
+| reliable    | dependable, trustworthy, consistent | steadfast, unwavering, surefire | unerring, infallible, failsafe |
+| unreliable  | inconsistent, erratic, undependable | fickle, capricious, flighty | treacherous, untrustworthy, volatile |
+| skillful    | adept, proficient, competent | masterful, dexterous, expert | virtuosic, consummate, unparalleled |
+| clumsy      | awkward, uncoordinated, inept | bumbling, blundering, maladroit | oafish, klutzy, ham-fisted |
 
 Want a new base word up here? [Create an issue](https://github.com/richardanaya/verygoodword/issues).
