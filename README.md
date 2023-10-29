@@ -74,5 +74,9 @@ Searching for a more sophisticated alternative to the phrase 'very (insert word 
 | unreliable  | inconsistent, erratic, undependable | fickle, capricious, flighty | treacherous, untrustworthy, volatile |
 | skillful    | adept, proficient, competent | masterful, dexterous, expert | virtuosic, consummate, unparalleled |
 | clumsy      | awkward, uncoordinated, inept | bumbling, blundering, maladroit | oafish, klutzy, ham-fisted |
+| interested | intrigued, curious, keen | engrossed, captivated, absorbed | fascinated, enthralled, mesmerized |
+| disinterested | uninvolved, impartial   | detached, unemotional    | indifferent, apathetic     |
+| obsessed   | preoccupied, fixated      | consumed, engrossed      | fanatical, maniacal, possessed |
+| bored      | uninterested, unengaged  | disinterested, disenchanted | listless, apathetic, ennui-filled |
 
 Want a new base word up here? [Create an issue](https://github.com/richardanaya/verygoodword/issues).
